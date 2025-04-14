@@ -43,5 +43,6 @@ Insert graphs or screenshots from your notebook here to give users a preview.
 If you have any questions or feedback, feel free to reach out:
 
 Your Name
-Email: vignesh15502@gmail.com\n
+Email: vignesh15502@gmail.com
+
 GitHub: github.com/Vignesh15502
